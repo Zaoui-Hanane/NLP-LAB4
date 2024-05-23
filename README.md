@@ -42,7 +42,7 @@ This repository contains the implementation of various NLP tasks and models.
 4. **Evaluation**:
    - Evaluate the model using metrics such as accuracy, loss, F1 score, BLEU score, and BERT-specific metrics.
 
-5. **Conclusion**:
+## Conclusion
   
 ## Additional Resources
 
