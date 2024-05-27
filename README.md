@@ -43,6 +43,7 @@ This repository contains the implementation of various NLP tasks and models.
    - Evaluate the model using metrics such as accuracy, loss, F1 score, BLEU score, and BERT-specific metrics.
 
 ## Conclusion
+Through this lab, I've learned about NLP, especially model training with architectures like RNN, LSTM, fine-tuning transformers "GPT-2", and using BERT for tasks like classification.
   
 ## Additional Resources
 
